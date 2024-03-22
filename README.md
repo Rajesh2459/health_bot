@@ -16,14 +16,14 @@ The application offers a user-friendly interface and a range of features to cate
 
 1. User Authentication:
    
-   - Implement user signup, login, and logout functionalities.
+- Implement user signup, login, and logout functionalities.
      
-   - Store user information in a database (e.g., SQLite).
+- Store user information in a database (e.g., SQLite).
     
 2. Chatbot with NLP:
    
-	- Integrate a natural language processing (NLP) engine to understand user queries.
-	-Create intents for health-related questions, symptoms, medication information, and general health advice.
+- Integrate a natural language processing (NLP) engine to understand user queries.
+-Create intents for health-related questions, symptoms, medication information, and general health advice.
     
 3.Health Information:
 
@@ -41,7 +41,7 @@ The application offers a user-friendly interface and a range of features to cate
 
 6.Backend Processing:
 
--Implement backend logic to handle user queries, process appointments, and interact with the database.
+- Implement backend logic to handle user queries, process appointments, and interact with the database.
 
 
 
