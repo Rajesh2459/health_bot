@@ -23,7 +23,8 @@ The application offers a user-friendly interface and a range of features to cate
 2. Chatbot with NLP:
    
 	- Integrate a natural language processing (NLP) engine to understand user queries.
-  -	Create intents for health-related questions, symptoms, medication information, and general health advice.
+	-Create intents for health-related questions, symptoms, medication information, and general health advice.
+    
 3.Health Information:
 
 - Based on the user's query, fetch relevant health information from reliable sources or a predefined database.
@@ -39,6 +40,7 @@ The application offers a user-friendly interface and a range of features to cate
  -Implement a responsive design for both desktop and mobile.
 
 6.Backend Processing:
+
 -Implement backend logic to handle user queries, process appointments, and interact with the database.
 
 
