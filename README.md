@@ -9,6 +9,10 @@ This gives 2 deployment options:
 ## project description: 
 
 A Flask-based Python web app offers diverse healthcare services: chatbot, doctor appointments, exercise guides,Yoga/Meditation tips, and diet plans. Prioritizes user-friendly interface and holistic well-being.
+It includes features such as a chatbot for interactive communication, appointment booking with specialized doctors and exercise guides, Yoga and Meditation tips, and a diet plan.
+The application offers a user-friendly interface and a range of features to cater to different aspects of health & well-being.
+
+
 
 ## Initial Setup for chat bot:
 This repo currently contains the starter files.
