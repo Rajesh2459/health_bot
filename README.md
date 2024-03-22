@@ -77,3 +77,32 @@ the following command to test it in the console.
 $ (venv) python chat.py
 ```
 
+## Screenshots 
+1.Login Page: 
+
+![Screenshot (114)](https://github.com/Rajesh2459/health_bot/assets/131291830/aacd7e0a-1c6d-4428-b714-fafdc720816f)
+
+2.Signup Page:
+
+![Screenshot (115)](https://github.com/Rajesh2459/health_bot/assets/131291830/49a4cf2e-4dfa-4900-ab9d-b938aba4e8cd)
+
+3.Dashboard page:
+
+![Screenshot (116)](https://github.com/Rajesh2459/health_bot/assets/131291830/509686b1-836c-400a-9f65-fb59d40ace3f)
+![Screenshot (117)](https://github.com/Rajesh2459/health_bot/assets/131291830/1052b0fb-73d9-4423-b1e8-1e74393c6bba)
+![Screenshot (118)](https://github.com/Rajesh2459/health_bot/assets/131291830/1edd2576-d1c8-460e-86c2-43240dfd2b78)
+
+
+
+4.challenges Page:
+
+![Screenshot (121)](https://github.com/Rajesh2459/health_bot/assets/131291830/b38f3389-15d5-4a79-9f9d-e2b6ff78bd04)
+
+5.Review Page:
+
+![Screenshot (122)](https://github.com/Rajesh2459/health_bot/assets/131291830/93bf6ec4-d4ef-45b5-8299-476197387f9d)
+
+6.appointment booking:
+
+![Screenshot (119)](https://github.com/Rajesh2459/health_bot/assets/131291830/f67b6b3e-cfcc-414e-9a04-c2bb110df3ae)
+![Screenshot (120)](https://github.com/Rajesh2459/health_bot/assets/131291830/08ad2899-9f0d-4018-8b38-d9fcd252c8ae)
